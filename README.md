@@ -16,9 +16,7 @@ Currently, I work at **iVenuto.com** as a software engineer, where I design and 
 ---
 
 ## 📌 Featured Projects
-- [**ResiRate**](link-to-repo) → Platform for property listings & reviews (React + Node + MySQL)  
-- [**Visitor Management System**](link-to-repo-or-case-study) → AI-powered visitor check-in system with dashboards, iPad app, and LLM-based automation  
-- [**AI Stylist App (WIP)**](link-to-repo-if-public) → Mobile app that uses AI to optimize photos & outfits in real time  
+- [**ResiRate**](link-to-repo) → Platform for property listings & reviews (React + Node + MySQL)   
 - [**portfolio**](link-to-repo) → My personal site & showcase  
 
 ---
