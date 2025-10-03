@@ -35,8 +35,6 @@ I’m starting my open-source contribution journey to:
 ## 📫 Let’s Connect
 - **LinkedIn:** [linkedin.com/in/amiryasaei](https://linkedin.com/in/amiryasaei)  
 - **Portfolio:** [amiryasaei.github.io/portfolio](link-to-your-deployed-site)  
-- **Email:** your.email@example.com  
-
 ---
 
 ⭐️ From [Amir Yasaei](https://github.com/amiryasaei)
