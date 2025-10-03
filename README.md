@@ -8,7 +8,7 @@ Currently, I work at **iVenuto.com** as a software engineer, where I design and 
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** React, React Native, Tailwind, Jetpack Compose (Kotlin)
+- **Frontend:** React, React Native, Tailwind
 - **Backend:** Node.js, Express, NestJS, Prisma, MySQL, PostgreSQL
 - **AI/Automation:** OpenAI APIs, Supabase
 - **Other Tools:** Docker, Redis, WebSockets, GitHub Actions
