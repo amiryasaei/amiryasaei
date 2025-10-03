@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amir Yasaei
 
-💻 **Full-Stack Developer** | 🎓 Mechatronics Engineering @ University of Waterloo | 🌎 Based in Waterloo, Ontario  
+💻 **Full-Stack Developer** | 🎓 Computer Engineering @ University of Waterloo | 🌎 Based in Waterloo, Ontario  
 
 I’m passionate about building software systems that combine **scalable backend engineering** and **intuitive user experiences**.  
 Currently, I work at **iVenuto.com** as a software engineer, where I design and implement production systems from scratch.  
