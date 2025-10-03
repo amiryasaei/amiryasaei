@@ -17,7 +17,7 @@ Currently, I work at **iVenuto.com** as a software engineer, where I design and 
 
 ## 📌 Featured Projects
 - [**ResiRate**](https://github.com/amiryasaei/ResiRate) → Platform for property listings & reviews (React + Node + MySQL)   
-- [**portfolio**](https://github.com/amiryasaei/portfolio) → My personal site & showcase  
+- [**portfolio**](https://github.com/amiryasaei/portfolio) → My personal site & showcase (React, Scss)
 
 ---
 
